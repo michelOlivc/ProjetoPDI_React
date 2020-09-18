@@ -29,7 +29,7 @@ const Products = () => {
         callback(response.data);
       })
       .catch(error => {
-        setError(error);
+        setError(error.response);
       })
       .finally(() => {
         setLoading(false);
