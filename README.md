@@ -1,7 +1,7 @@
 # ProjetoPDI_React
 O projeto se trata de um crud one-page desenvolvido em React para fins de estudo. 
 A aplicação consome uma API desenvolvida em Java utilizando Spring Boot e persistindo dados em um banco PostgreSQL.
-Todos os recursos necessários para rodar a aplicação já se encontram em execução em um servidor Heroku, mas é possível rodar o projeto em servidor local seguindo as instruções abaixo.
+Todos os recursos necessários para rodar a aplicação já se encontram em execução em um servidor Heroku disponível através do link https://fazaconta-admin.herokuapp.com/, mas é possível rodar o projeto em servidor local seguindo as instruções abaixo.
 
 Instruções para executar a aplicação em servidor local:
 
