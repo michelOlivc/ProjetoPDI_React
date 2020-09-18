@@ -14,7 +14,7 @@ const Search = React.memo(props => {
 
   useEffect(() => {
     const timer = setTimeout(() => {
-      let url = 'http://localhost:8080/fazaconta/product';
+      let url = 'https://faz-a-conta.herokuapp.com/product';
       if(enteredFilter.length > 2) {
         url += `?name=${enteredFilter}`;
       }

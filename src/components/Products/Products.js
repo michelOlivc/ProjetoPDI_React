@@ -6,7 +6,7 @@ import ProductList from './ProductList';
 import ErrorModal from '../UI/ErrorModal';
 import Search from './Search';
 
-const URL = 'http://localhost:8080/fazaconta/product';
+const URL = 'https://faz-a-conta.herokuapp.com/product';
 
 const Products = () => {
   
